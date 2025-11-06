@@ -1,0 +1,17 @@
+# Normalize line endings: keep LF everywhere
+* text eol=lf
+
+# Binary files (don’t try to change endings)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.tif binary
+*.exr binary
+*.fbx binary
+*.mp4 binary
+*.mov binary
+*.wav binary
+*.mp3 binary
+*.aif binary
+*.ogg binary
